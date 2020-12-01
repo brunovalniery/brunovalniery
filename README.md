@@ -6,7 +6,6 @@
 Gosto bastante de resolver problemas utilizando a programação e de dar aulas de robótica educacional :computer:
 Sou um estudante fullstack developer :man_technologist: -->
 
- :robot:  &nbsp; Professor de robótica educacional na **RoboEduc**
  <br/> :books: &nbsp; Estudante do bacharelado em Ciências & Tecnologia da **UFRN**
  <br/> :dart: &nbsp; Buscando desenvolver projetos em front-end
  <br/> 💬  &nbsp; Gosto de tecnologias, de correr, de ir à praia e de séries de ficcção científica
