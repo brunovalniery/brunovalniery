@@ -6,7 +6,8 @@
 Gosto bastante de resolver problemas utilizando a programação e de dar aulas de robótica educacional :computer:
 Sou um estudante fullstack developer :man_technologist: -->
 
- <br/> :books: &nbsp; Estudante do bacharelado em Ciências & Tecnologia da **UFRN**
+ <br/> :books: &nbsp; Estudante de Engenharia da Computação pela **UFRN**
+ <br/> :man_student: &nbsp; Bacharel em Ciências & Tecnologia pela **UFRN**
  <br/> :dart: &nbsp; Buscando desenvolver projetos em front-end
  <br/> 💬  &nbsp; Gosto de tecnologias, de correr, de ir à praia e de séries de ficcção científica
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-brunovalniery-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunovalniery/)](https://www.linkedin.com/in/brunovalniery/) 
